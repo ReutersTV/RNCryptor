@@ -29,9 +29,9 @@
 // Swift doesn't like to import these. See https://github.com/RNCryptor/RNCryptor/issues/147
 // When RNCryptor is ported to Swift, we can bring these back. For now, everything we need
 // has been copied into RNCryptor+Swift.h
-//#import <CommonCrypto/CommonCryptor.h>
-//#import <CommonCrypto/CommonKeyDerivation.h>
-#import "RNCryptor+Swift.h"
+#import <CommonCrypto/CommonCryptor.h>
+#import <CommonCrypto/CommonKeyDerivation.h>
+//#import "RNCryptor+Swift.h"
 
 #import <Security/Security.h>
 

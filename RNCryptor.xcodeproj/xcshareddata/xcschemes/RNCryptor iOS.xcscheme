@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C14FA9AC1B1DBCAD00143FC8"
-               BuildableName = "RNCryptor iOS.framework"
+               BuildableName = "RNCryptor.framework"
                BlueprintName = "RNCryptor iOS"
                ReferencedContainer = "container:RNCryptor.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C14FA9AC1B1DBCAD00143FC8"
-            BuildableName = "RNCryptor iOS.framework"
+            BuildableName = "RNCryptor.framework"
             BlueprintName = "RNCryptor iOS"
             ReferencedContainer = "container:RNCryptor.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C14FA9AC1B1DBCAD00143FC8"
-            BuildableName = "RNCryptor iOS.framework"
+            BuildableName = "RNCryptor.framework"
             BlueprintName = "RNCryptor iOS"
             ReferencedContainer = "container:RNCryptor.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C14FA9AC1B1DBCAD00143FC8"
-            BuildableName = "RNCryptor iOS.framework"
+            BuildableName = "RNCryptor.framework"
             BlueprintName = "RNCryptor iOS"
             ReferencedContainer = "container:RNCryptor.xcodeproj">
          </BuildableReference>
