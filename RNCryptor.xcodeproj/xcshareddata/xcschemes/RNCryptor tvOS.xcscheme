@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DD4F928A1C0F4CCB00CDBF01"
-               BuildableName = "RNCryptor tvOS.framework"
+               BuildableName = "RNCryptor.framework"
                BlueprintName = "RNCryptor tvOS"
                ReferencedContainer = "container:RNCryptor.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DD4F928A1C0F4CCB00CDBF01"
-            BuildableName = "RNCryptor tvOS.framework"
+            BuildableName = "RNCryptor.framework"
             BlueprintName = "RNCryptor tvOS"
             ReferencedContainer = "container:RNCryptor.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DD4F928A1C0F4CCB00CDBF01"
-            BuildableName = "RNCryptor tvOS.framework"
+            BuildableName = "RNCryptor.framework"
             BlueprintName = "RNCryptor tvOS"
             ReferencedContainer = "container:RNCryptor.xcodeproj">
          </BuildableReference>
